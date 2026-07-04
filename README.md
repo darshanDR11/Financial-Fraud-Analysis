@@ -87,34 +87,6 @@ This dashboard helps fraud analysts investigate characteristics associated with 
 
 ---
 
-### 3. Risk Analysis Dashboard
-
-This dashboard focuses on identifying high-risk channels and transaction patterns to support fraud prevention strategies.
-
-#### KPIs
-
-- Highest-Risk Merchant Category
-- Highest-Risk Payment Method
-- Highest-Risk Device
-- Highest-Risk Country
-
-#### Visuals
-
-- Merchant Category Fraud Rate
-- Payment Method Fraud Rate
-- Device Type Fraud Rate
-- Country-wise Fraud Rate
-- Transaction Status Analysis
-
-#### Business Questions Answered
-
-- Which merchant categories are most vulnerable?
-- Which payment methods require stronger security?
-- Which countries show the highest fraud rate?
-- Which transaction channels are high risk?
-
----
-
 ## Power BI Features
 
 - Interactive Navigation
